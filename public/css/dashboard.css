@@ -1,0 +1,15 @@
+.infors{
+  padding: 5px;
+}
+th{
+  background-color: gray;
+  padding: 3px 10px;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+td{
+  background-color: rgb(171, 171, 171);
+  padding: 3px 10px;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
